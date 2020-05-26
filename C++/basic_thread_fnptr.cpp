@@ -5,7 +5,7 @@
 
 #include "utility.h"
 
-// With plain g++: g++ -std=c++17 -lpthread src/main/main.cc  -I ./
+// With plain g++: g++ -std=c++17 -lpthread basic_thread_fnptr.cpp  -I ./
 
 int main() {
   const int number_of_threads = 2;
